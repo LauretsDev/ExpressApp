@@ -1,2 +1,2 @@
 # ExpressApp
-Node.js and Express project
+This is a project to learn Node.js, Express, NPM, and routing.
